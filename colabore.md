@@ -36,4 +36,4 @@ Queremos continuar na luta pela democratização do ensino!
 Desde já, agradecemos sua generosidade.
 Forte abraço!
 
-Mais informações podem ser obtidas através do e-mail arrastaodosol@gmail.com
+Mais informações podem ser obtidas através do e-mail adm.asol@outlook.com
