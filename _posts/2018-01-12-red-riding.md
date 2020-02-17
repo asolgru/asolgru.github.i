@@ -1,16 +1,33 @@
 ---
 layout: post-right-sidebar
-title:  "Red Riding Hood"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+title:  "Campanha de financiamento"
+author: Cursinho Comunitário A-SOL
+categories: 
+image: assets/images/1702campanha.jpeg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Olá! Chamamos você, que acredita que a educação é um dos caminhos para diminuir a desigualdade social, e estamos pedindo doações mensais para continuarmos nosso trabalho, pois não recebemos dinheiro de empresas e governos.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+O A-SOL está precisando de sua ajuda para continuar inserindo jovens e adultos carentes nas melhores universidades do país, além de também ajudá-los a conquistarem uma vaga no concurso público de seus sonhos!
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Pedimos uma importância muito simples, basta sinalizar o valor que pode doar e enviaremos um boleto. Ah, te mandaremos mensalmente um relatório de como sua contribuição nos ajuda!
+Informe a importância que poderá doar:
+[ ] R$ 20,00
+[ ] R$ 30,00
+[ ] R$ 50,00
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Escolha a melhor data:
+[ ] dia 10
+[ ] dia 20
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Nosso financiamento é coletivo e junto a outros cursinhos da cidade de Guarulhos, abraçamos a luta quando o assunto é acesso ao Ensino Superior (através dos vestibulares e do Enem) e a aprovação nos grandes concursos públicos!
+
+Todos nós: diretoria, coordenação, administração e corpo docente, somos voluntários!
+
+Em 14 anos, mais de 300 pessoas puderam ingressar nas Universidades graças a esse esforço coletivo e, principalmente, à existência do espaço físico. Porém, como em qualquer lugar, temos custos com água, luz, limpeza e a manutenção geral do espaço.
+
+Você receberá mensalmente um boleto com o valor que escolheu para nos ajudar. Além disso, enviaremos a você um relatório que apresentará onde foi empregada a sua colaboração!
+
+Queremos continuar na luta pela democratização do ensino!
+
+Desde já, agradecemos sua generosidade.
+Forte abraço!
