@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Campanha de financiamento"
-author: Cursinho Comunitário A-SOL
+author: asol
 categories: 
 image: assets/images/1702campanha.jpeg
 ---
