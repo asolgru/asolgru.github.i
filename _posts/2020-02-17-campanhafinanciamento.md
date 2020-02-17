@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title:  "Campanha de financiamento"
 author: asol
 categories: 
