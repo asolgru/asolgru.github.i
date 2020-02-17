@@ -11,12 +11,17 @@ O A-SOL está precisando de sua ajuda para continuar inserindo jovens e adultos 
 
 Pedimos uma importância muito simples, basta sinalizar o valor que pode doar e enviaremos um boleto. Ah, te mandaremos mensalmente um relatório de como sua contribuição nos ajuda!
 Informe a importância que poderá doar:
+
 [ ] R$ 20,00
+
 [ ] R$ 30,00
+
 [ ] R$ 50,00
 
 Escolha a melhor data:
+
 [ ] dia 10
+
 [ ] dia 20
 
 Nosso financiamento é coletivo e junto a outros cursinhos da cidade de Guarulhos, abraçamos a luta quando o assunto é acesso ao Ensino Superior (através dos vestibulares e do Enem) e a aprovação nos grandes concursos públicos!
@@ -33,4 +38,3 @@ Desde já, agradecemos sua generosidade.
 Forte abraço!
 
 Mais informações podem ser obtidas através do e-mail arrastaodosol@gmail.com
-
