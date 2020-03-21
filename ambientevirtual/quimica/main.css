@@ -70,17 +70,17 @@
   color: #522d80; }
 
 .site-nav .sub-menu a:hover {
-  color: #3a7b45; }
+  color: #e0a1a7; }
 
 .site-nav .sub-menu {
   background: #ffffff;
-  border-color: #3a7b45;
+  border-color: #e0a1a7;
   min-width: 265px;
   z-index: 2147483647; }
 
 .site-nav .sub-menu li.current-menu-item > a {
-  border-left-color: #3a7b45;
-  border-right-color: #3a7b45;
+  border-left-color: #e0a1a7;
+  border-right-color: #e0a1a7;
   border-right: 0px; }
 
 .sub-menu {
@@ -718,7 +718,7 @@ ul.listing li.listing-item time {
   padding-right: 10px; }
 
 ul.listing li.listing-item a {
-  color: #3a7b45;
+  color: #e0a1a7;
   font-weight: 400;
   font-family: 'Titillium Web', sans-serif; }
 
@@ -744,7 +744,7 @@ ul#archive li.alt {
   color: #333; }
 
 ul#archive li span a {
-  color: #3a7b45;
+  color: #e0a1a7;
   font-weight: bold;
   font-family: 'Titillium Web', sans-serif; }
 
@@ -887,7 +887,7 @@ ul#archive li span a:hover {
 .wp-caption {
   background-color: #f3f3f3;
   text-align: center;
-  border: 1px dotted #3a7b45;
+  border: 1px dotted #e0a1a7;
   font-size: 0.90em;
   overflow: hidden;
   position: relative; }
